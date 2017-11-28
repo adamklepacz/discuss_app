@@ -27,7 +27,7 @@ class PostEditor extends Component {
 
   render() {
     return (
-      <div className="panel panel-default post-editor">
+      <div className="panel panel-success post-editor">
         <div className="panel-heading">New Post</div>
         <div className="panel-body">
           <textarea
